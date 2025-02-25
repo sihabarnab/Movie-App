@@ -61,10 +61,7 @@ This is a React.js movie application that allows users to search for movies, vie
 
 Contributions are welcome! Please open an issue or submit a pull request for any changes.
 
-## License
 
-This project is licensed under the MIT License.
-```
 
 This `README.md` file provides an overview of the project, installation instructions, and usage information. Replace the placeholder values in the `.env.local` file with your actual API keys and IDs.
 This `README.md` file provides an overview of the project, installation instructions, and usage information. Replace the placeholder values in the `.env.local` file with your actual API keys and IDs.:
