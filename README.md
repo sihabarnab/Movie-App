@@ -31,3 +31,41 @@ This is a React.js movie application that allows users to search for movies, vie
    ```bash
    git clone https://github.com/sihabarnab/MovieApp.git
    cd MovieApp
+   ```
+
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+3. Create a .env.local file in the root of the project and add your environment variables:
+   ```bash
+   VITE_TMDB_API_KEY=your_tmdb_api_key
+   VITE_APPWRITE_PROJECT_ID=your_appwrite_project_id
+   VITE_APPWRITE_DATABASE_ID=your_appwrite_database_id
+   VITE_APPWRITE_COLLECTION_ID=your_appwrite_collection_id
+   ```
+
+4. Start the development server:
+   ```bash
+   npm run dev
+   ```
+
+## Usage
+
+- Use the search bar to search for movies by title.
+- View trending movies on the homepage.
+- Click on a movie to see detailed information, including the trailer.
+
+## Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request for any changes.
+
+## License
+
+This project is licensed under the MIT License.
+```
+
+This `README.md` file provides an overview of the project, installation instructions, and usage information. Replace the placeholder values in the `.env.local` file with your actual API keys and IDs.
+This `README.md` file provides an overview of the project, installation instructions, and usage information. Replace the placeholder values in the `.env.local` file with your actual API keys and IDs.:
+   npm install
