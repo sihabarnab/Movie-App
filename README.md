@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Movie App
 
 This is a React.js movie application that allows users to search for movies, view trending movies, and see detailed information about each movie. The application uses the TMDB API for movie data and Appwrite for backend services.
@@ -66,3 +67,13 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 This `README.md` file provides an overview of the project, installation instructions, and usage information. Replace the placeholder values in the `.env.local` file with your actual API keys and IDs.
 This `README.md` file provides an overview of the project, installation instructions, and usage information. Replace the placeholder values in the `.env.local` file with your actual API keys and IDs.:
    npm install
+=======
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+>>>>>>> 03816a0 (Initial commit)
